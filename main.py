@@ -25,7 +25,7 @@ def main():
     # Example usage - Replace with your actual data
     secretid = 83110
     name = "ciao"  # Replace with your name_surname
-    loveust = "bella"     # Replace with your favourite_color
+    loveust = TRUE    # Replace with your favourite_color
     
     print(f"Inserting: {name} with favorite color: {color}")
     
